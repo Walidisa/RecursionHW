@@ -1,0 +1,15 @@
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\bin\Debug\net8.0\RecursionHW.exe
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\bin\Debug\net8.0\RecursionHW.deps.json
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\bin\Debug\net8.0\RecursionHW.runtimeconfig.json
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\bin\Debug\net8.0\RecursionHW.dll
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\bin\Debug\net8.0\RecursionHW.pdb
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.AssemblyInfoInputs.cache
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.AssemblyInfo.cs
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.csproj.CoreCompileInputs.cache
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.sourcelink.json
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.dll
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\refint\RecursionHW.dll
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.pdb
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\RecursionHW.genruntimeconfig.cache
+C:\Users\walid\source\repos\RecursionHW\RecursionHW\obj\Debug\net8.0\ref\RecursionHW.dll
